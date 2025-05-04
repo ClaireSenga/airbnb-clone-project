@@ -59,7 +59,7 @@ Body Text: 16px
 Headings: 24px-32px
 Secondary Text: 14px
 
-PROJECT ROLES AND RESPONSIBILITIES
+Project Roles and Responsibilities
 
 ### Project Manager
 Key Responsibilities:
