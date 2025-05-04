@@ -39,5 +39,25 @@ Property Listing View	A grid display of available properties, with options for f
 Listing Detailed View	Displays detailed information about a selected property, including images, price, location, amenities, and a booking form. This is where users can view full property details and book the property.
 Simple Checkout View	A clean, straightforward page where users can enter payment information and confirm their booking. It also includes a booking summary and confirmation details.
 
+Color Styles:
+Primary Color: #FF5A5F (Bright Red-Pink for call-to-action buttons and highlights)
+Secondary Color: #008489 (Teal for accents and secondary buttons)
+Background Color: #FFFFFF (White for clean background)
+Text Color: #222222 (Dark Gray for primary text for readability)
+Secondary Text Color: #717171 (Light Gray for secondary or disabled text)
+
+Typography:
+The typography will follow these specifications from the Figma design:
+Primary Font Family: Circular
+
+Font Weights:
+Medium (500) for body text and general content (16px)
+Bold (700) for headings (24px-32px)
+Book (400) for secondary or smaller text (14px)
+Font Sizes:
+Body Text: 16px
+Headings: 24px-32px
+Secondary Text: 14px
+
 Importance of User-Friendly Design in a Booking System:
 A well-designed booking system is crucial for a smooth user experience. It reduces friction in the user journey, increases conversion rates, and enhances overall customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical in ensuring that users can easily find and book accommodations. A user-friendly design also helps minimize errors and confusion, creating trust and making users more likely to return.
