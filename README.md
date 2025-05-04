@@ -141,5 +141,48 @@ Supports the team: Coaches the team in best practices and helps improve their pr
 Contribution to Success:
 The Scrum Master ensures that the project stays on track by facilitating communication, resolving issues, and fostering a productive environment. They help the team maintain focus on delivering high-quality work within the sprint timelines.
 
+UI Component Patterns
+Overview:
+In this section, we’ll define the key UI components for the AirBnB Clone project. These components will be reusable and modular, ensuring consistency across the platform. We'll break down the components into smaller parts to ensure ease of implementation and flexibility in future updates. Below are the primary components that will be created:
+
+Navbar
+Description: The navbar will provide navigation options for users to move between different parts of the application. It will include links to major pages such as the homepage, property listings, user profile, and other essential pages.
+
+Key Features:
+
+Logo: A clickable logo that redirects to the homepage.
+Search Bar: A search input field for users to search for properties based on location or other filters.
+User Navigation: Links or dropdowns to user-related actions such as sign-in, account settings, and bookings.
+Responsive Menu: A mobile-friendly menu that collapses and expands as the user interacts with it.
+Contribution to Success:
+The navbar is one of the most important components of any web application. It allows users to easily navigate the platform, providing quick access to core features like searching properties and managing their profile.
+
+Property Card
+Description: The property card will display brief details about each property in the listing view. This will help users browse through available properties and choose the one that best suits their needs.
+
+Key Features:
+Property Image: A thumbnail image representing the property
+Property Details: Includes the price, location, rating, and other essential details.
+Favorite Button: Allows users to mark properties as favorites for future reference.
+Responsive Layout: Ensures the card looks good on both desktop and mobile views.
+
+Contribution to Success:
+The property card plays a vital role in the property listing view. It provides users with a concise overview of available options and is designed to drive engagement by encouraging users to explore further or save their favorite properties.
+
+Footer
+Description: The footer will be the bottom section of every page, providing important site-wide links, social media handles, and copyright information.
+
+Key Features:
+Site Links: Includes links to the privacy policy, terms of service, and other essential pages.
+Company Information: Displays company details and potentially contact information.
+Social Media Links: Quick access to the company’s social media pages like Facebook, Twitter, Instagram, etc.
+Copyright Information: A small section dedicated to copyright notices and the year.
+
+Contribution to Success:
+The footer serves as the last section users interact with on a page. It should be clean, informative, and user-friendly. It provides useful links for users who want to learn more about the company or access important information.
+
+Conclusion:
+These UI components will form the building blocks for the AirBnB Clone project. By creating reusable and modular components, we ensure that the development process is efficient, the design is consistent, and the user experience is smooth across different parts of the application.
+
 Importance of User-Friendly Design in a Booking System:
 A well-designed booking system is crucial for a smooth user experience. It reduces friction in the user journey, increases conversion rates, and enhances overall customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical in ensuring that users can easily find and book accommodations. A user-friendly design also helps minimize errors and confusion, creating trust and making users more likely to return.
